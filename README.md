@@ -11,3 +11,7 @@ And while I was at it - why not practice a bit of API work?
 In this project, I use Spotify’s public Web API to extract data on recent album releases, explore the relationship between an artist’s popularity, their follower count, and the performance of their newest album, and finally take a deeper look at *West End Girl* as a case study.
 
 The goal was simple: combine a little curiosity, a lot of music, and some data skills - and see what story the numbers tell.
+
+<p align="center">
+  <img src="album_cover.png" width="300">
+</p>
